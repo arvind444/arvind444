@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arvind444 (Arvindkumar S P)
-- 👀 I’m interested in Web developing and Machine Learning
-- 🌱 I’m currently learning Django and Deep Leraning
+- 👋 Hi, I’m @arvind444 (Arvindkumar S P).
+- 👀 I’m interested in Business Analytics, Data Science and Machine Learning.
+- 🌱 I’m currently learning Tensorflow.
 - 📫 How to reach me... Mail me at arvindkumar1998ece@gmail.com
 
 <!---
