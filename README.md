@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arvind444 (Arvindkumar S P).
-- 👀 I’m interested in Business Analytics, Data Science and Machine Learning.
-- 🌱 I’m currently learning Tensorflow.
+- 👋 Hi, I’m @arvind444 (Arvindkumar S P). MBA Graaduate, BE - ECE
+- 👀 I’m interested in role of backend development, Data analysis, data science, machine learning.
+- 🌱 I’m currently enhansing my skills in backend development (Django)
 - 📫 How to reach me... Mail me at arvindkumar1998ece@gmail.com
 
 <!---
